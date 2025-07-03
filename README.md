@@ -21,7 +21,7 @@ This script will:
 ### 2. Launch Docker and Build DREAMPlace
 
 ```bash
-docker run -it --gpus all --name iccadc -v $(pwd):/work iccad25c bash
+docker start -ai iccadc
 ```
 
 Inside the container:
