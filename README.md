@@ -43,8 +43,7 @@ This script launches the placement flow and collects results.
 ---
 
 ## Results Summary
-
-All experiments use the same `.lib` and netlist from **ICCAD 2025 Problem C**.
+WNS and TNS
 
 | Version               | TNS max     | WNS max | Total Power (W) |
 |-----------------------|-------------|---------|------------------|
