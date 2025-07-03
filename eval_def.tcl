@@ -9,7 +9,7 @@ foreach lef [glob "ASAP7/LEF/*.lef"] {
     read_lef $lef
 }
 puts "reading def.."
-read_def cad-contest-problem-c/install/results/aes_cipher_top/aes_cipher_top.gp.def
+read_def DREAMPlace_TUM/install/results/aes_cipher_top/aes_cipher_top.gp.def
 read_sdc aes_cipher_top/aes_cipher_top.sdc
 source ASAP7/setRC.tcl
 estimate_parasitics -placement
