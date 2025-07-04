@@ -1,7 +1,7 @@
 # DREAMPlace + INSTA Integration 
 This project integrates **INSTA** into **DREAMPlace** to enable timing-aware placement optimization.  
 - Only **cell positions** are considered during optimization.  
-- Circuit and standard cell library are taken from **ICCAD 2025 Contest - Problem C**.
+- Benchmarks, library and evaluation script are taken from **ICCAD 2025 Contest - Problem C**.
 - All placement optimizations are based on **cell position only**
 - No modification to cells or timing models
 ---
