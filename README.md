@@ -21,7 +21,7 @@ This script will:
 ### 2. Launch Docker and Build DREAMPlace
 
 ```bash
-docker start -ai iccadc
+docker start -ai tumplace
 ```
 
 Inside the container:
