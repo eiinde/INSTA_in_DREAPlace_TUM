@@ -16,7 +16,7 @@ This project integrates **INSTA** into **DREAMPlace** to enable timing-aware pla
 
 This script will:
 - Clone `DREAMPlace_TUM` and `INSTA_TUM`
-- Build the Docker image `iccad25c` with all dependencies
+- Build the Docker image `insta_dreamplace_tum` with all dependencies
 
 ### 2. Launch Docker and Build DREAMPlace
 
