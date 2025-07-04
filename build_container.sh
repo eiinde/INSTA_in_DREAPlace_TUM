@@ -4,7 +4,7 @@ set -e  # Exit on any error
 # 1. Navigate to the DREAMPlace_TUM directory
 cd /work/DREAMPlace_TUM
 
-# 2. Install Python requirements in DREAMPlace
+# 2. Install Python requirements for DREAMPlace
 pip install -r requirements.txt
 
 # 3. Build DREAMPlace_TUM
