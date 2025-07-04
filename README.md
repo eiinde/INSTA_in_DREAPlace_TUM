@@ -42,6 +42,7 @@ This will configure and compile DREAMPlace using `cmake` and `make`.
 After placement is complete, run the evaluation script using OpenROAD:
 
 ```bash
+./openroad_install.sh
 openroad eval_def.tcl
 ```
 
